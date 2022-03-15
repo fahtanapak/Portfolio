@@ -1,0 +1,43 @@
+body{
+    background-color: #1F3044;  
+    text-align: center;
+   
+    /* margin: 30px; */
+}
+h1{
+    color: #FB9039;
+}
+.frame{
+    background-color: rgb(255, 255, 255); 
+    margin: 30px;
+
+}
+button{
+    background-color: #1F3044;  
+    border: 3px solid #646C79;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    padding: 20px; 
+    margin: 20px; 
+}
+textarea{
+    padding: 2.5%;
+    width: 30%;
+    border: 3px solid #646C79;
+    background-color: #1F3044; 
+}
+div{
+    display: inline-table;
+    background-color: rgb(255, 255, 255); 
+    width: 80%;
+    margin: auto;
+    border-radius: 30px;
+}
+#topic1,#comment1,#comment2 {
+    background-color: #FB9039;
+    padding: 30px;
+    color: #1F3044;
+}
+#text1{
+    color: white;
+}
